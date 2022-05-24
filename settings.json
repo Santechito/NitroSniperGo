@@ -1,13 +1,13 @@
 {
   "tokens": {
-    "main": "",
+    "main": "MTgwNTA3MTEzMjM4Mjk4NjI1.Yj_EIg.V_vZsoIK_ApJLOfPIledm6j2sho",
     "alts": [
       ""
     ]
   },
   "status": {
-    "main": "",
-    "alts": "invisible"
+    "main": "online",
+    "alts": "online"
   },
   "nitro": {
     "max": 2,
@@ -17,17 +17,11 @@
   },
   "giveaway": {
     "enable": true,
-    "delay": 15,
-    "dm": "Hey, I won a giveaway !",
+    "delay": 5,
+    "dm": "",
     "dm_delay": 25,
-    "blacklist_words": [
-      "bot",
-      "test",
-      "ban"
-    ],
-    "whitelist_words": [
-      "nitro"
-    ],
+    "blacklist_words":[],
+    "whitelist_words": [],
     "blacklist_servers": []
   },
   "invite": {
